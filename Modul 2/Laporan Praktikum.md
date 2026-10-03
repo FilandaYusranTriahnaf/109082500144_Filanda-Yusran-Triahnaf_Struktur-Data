@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Soalno 1" src="https://github.com/user-attachments/assets/d6b3e8c2-3990-403e-8d2a-313b70937e7f" />
 # <h1 align="center">Laporan Praktikum Modul 2 - Struktur Data</h1>
 <p align="center">Filanda Yusran Triahnaf - 109082500144</p>
 
