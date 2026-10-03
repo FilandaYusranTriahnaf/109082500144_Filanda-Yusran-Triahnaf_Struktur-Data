@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Soalno 1" src="https://github.com/user-attachments/assets/d6b3e8c2-3990-403e-8d2a-313b70937e7f" />
 # <h1 align="center">Laporan Praktikum Modul 2 - Struktur Data</h1>
 <p align="center">Filanda Yusran Triahnaf - 109082500144</p>
 
@@ -375,6 +376,11 @@ int main() {
 
 
 
+<img width="1920" height="1080" alt="Soalno 1" src="https://github.com/user-attachments/assets/6c958011-a051-4d18-97d9-b34dc6a39158" />
+
+
+
+
 
 penjelasan unguided 1 :
 
@@ -442,6 +448,12 @@ void tukar(int &x, int &y, int &z) {
 
 ### Output Unguided 2 :
 
+
+<img width="1920" height="1080" alt="Soalno 2 Pointer" src="https://github.com/user-attachments/assets/d01c64f5-df94-4b81-accf-c05e9b6991f6" />
+
+
+
+<img width="1920" height="1080" alt="Soalno2 Reference" src="https://github.com/user-attachments/assets/7cd5618f-dc57-4802-8242-4e01507d93fc" />
 
 
 
@@ -537,6 +549,8 @@ int main() {
 
 ### Output Unguided 3 :
 
+
+<img width="1920" height="1080" alt="Soalno 3" src="https://github.com/user-attachments/assets/cb598750-c028-4231-a698-3942a712e335" />
 
 
 
