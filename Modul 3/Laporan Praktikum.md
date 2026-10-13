@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="nomer 1" src="https://github.com/user-attachments/assets/3b0e26e1-ff61-4c88-b004-53269eae63b4" />
-# <h1 align="center">Laporan Praktikum Modul 3 - Struktur Data</h1>
+<h1 align="center">Laporan Praktikum Modul 3 - Struktur Data</h1>
 <p align="center">Filanda Yusran Triahnaf - 109082500144</p>
 
 ## Dasar Teori
