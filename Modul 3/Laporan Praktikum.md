@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="nomer 1" src="https://github.com/user-attachments/assets/3b0e26e1-ff61-4c88-b004-53269eae63b4" />
 # <h1 align="center">Laporan Praktikum Modul 3 - Struktur Data</h1>
 <p align="center">Filanda Yusran Triahnaf - 109082500144</p>
 
@@ -142,6 +143,9 @@ int main() {
 
 
 
+<img width="1920" height="1080" alt="nomer 1" src="https://github.com/user-attachments/assets/d7d9789f-1133-4e8c-8183-765d22754df5" />
+
+
 
 
 penjelasan unguided 1 :
@@ -202,6 +206,8 @@ int main() {
 ### Output Unguided 2 :
 
 
+
+<img width="1920" height="1080" alt="nomer2" src="https://github.com/user-attachments/assets/9076a3eb-7f83-494f-aed2-d9c2cf641e48" />
 
 
 penjelasan unguided 2 :
@@ -280,6 +286,10 @@ int main() {
 
 ### Output Unguided 3 :
 
+
+
+
+<img width="1920" height="1080" alt="nomer3" src="https://github.com/user-attachments/assets/e7149abb-93d1-46d9-b54f-2a8cf795ff53" />
 
 
 
