@@ -511,6 +511,9 @@ int main() {
 ### Output Unguided 1 :
 
 
+<img width="1920" height="1080" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/51531999-0169-4115-9504-26adfbf3ee7d" />
+
+
 
 
 
@@ -567,6 +570,11 @@ int main() {
 
 
 ### Output Unguided 2 :
+
+
+
+<img width="1920" height="1080" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/353be8cb-d148-490b-b717-4f5f718edefd" />
+
 
 
 
