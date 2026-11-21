@@ -602,6 +602,7 @@ int main() {
 ### Output Unguided 1 :
 
 
+<img width="1920" height="1080" alt="no1" src="https://github.com/user-attachments/assets/e77973f7-3548-46b1-8cda-a35469410c16" />
 
 
 
@@ -742,6 +743,7 @@ int main() {
 
 ### Output Unguided 2 :
 
+<img width="1920" height="1080" alt="no2" src="https://github.com/user-attachments/assets/ea2b4f4b-5f69-4875-a6ea-d4077f4e6f50" />
 
 
 
@@ -875,6 +877,7 @@ int main() {
 
 ### Output Unguided 3 :
 
+<img width="1920" height="1080" alt="no3" src="https://github.com/user-attachments/assets/6ff2accc-db92-4856-8cc1-623365f5760b" />
 
 
 
